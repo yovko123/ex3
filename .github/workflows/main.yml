@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v3.0.0
         with:
           name: Create artifact
-          path: hello.py
+          path: hellp.py
